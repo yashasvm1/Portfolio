@@ -7,3 +7,5 @@ I am a product manager with experience working in fintech and e-commerce. Curren
 # Fun Fact about me
 I can cook 5 different cuisines
 
+# What I am learning right now
+Building habits
