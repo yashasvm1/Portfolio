@@ -11,4 +11,4 @@ I can cook 5 different cuisines
 Building habits
 
 # Assignments
-[Visualing government debt](https://yashasvm1.github.io/Portfolio/dataviz2).
+[Visualing government debt](https://yashasvm1.github.io/Portfolio/dataviz2)
