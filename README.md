@@ -10,4 +10,5 @@ I can cook 5 different cuisines
 # What I am learning right now
 Building habits
 
-Link to my data visualisation 2 [here](https://yashasvm1.github.io/Portfolio/dataviz2).
+# Assignments
+[Visualing government debt](https://yashasvm1.github.io/Portfolio/dataviz2).
