@@ -49,3 +49,6 @@ Here is the feedback recevied and insights from the interviews
 ![Insights](2.jpg)
 
 
+# Step 5: Redesign the chart 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11832100"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
