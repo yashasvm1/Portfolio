@@ -39,7 +39,7 @@ I want to deliver a useful message from the visualization. To do that I have nar
 with internet way before 2020 and the disparity in the development of internet accessibility everywhere else.
 
 
-![Wireframe](3.jpg)
+![Wireframe](3.png)
 
 # Step 3&4: Customer Interviews and Condensation
 For this exercise, I interviewed 2  students from academia to understand how they perceive these wireframes and get their feedback on the chart. Given below are the questions I asked them. 
