@@ -38,7 +38,14 @@ Make the chart more engaging by including more colors and talking about some int
 I want to deliver a useful message from the visualization. To do that I have narrowed the scope of this graph and focused on the top-performing countries in terms of internet accessibility.  I have filtered the top 10 countries with the highest internet accessibility and want to highlight when these countries achieved 60% of the population with internet access (the world’s current population with internet access) 
 
 
-# Step 3: Customer Interviews
+# Step 3&4: Customer Interviews and Condensation
 For this exercise, I interviewed 2  students from academia to understand how they perceive these wireframes and get their feedback on the chart. Given below are the questions I asked them. 
 
 ![Research Questions](Untitled.jpg)
+
+
+Here is the feedback recevied and insights from the interviews
+
+![Insights](2.jpg)
+
+
