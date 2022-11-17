@@ -32,4 +32,4 @@ Mention the units on the axes to make sure that the viewer understands that the 
 Usefulness: Have a few key takeaways from the graph for the user. A few things that can be included is how are the top-performing countries are doing as compared to the rest of the world 
 Make the chart more engaging by including more colors and talking about some interesting insights about the chart so that the reader is interested to learn more about the topic 
 
-![Happy Christmas](Untitled.png)
+![Happy Christmas](Untitled.jpg)
