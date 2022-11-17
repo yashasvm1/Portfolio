@@ -5,11 +5,11 @@ Link to the chart and source: https://data.worldbank.org/indicator/IT.NET.USER.Z
 
 We are going to redesign this chart and these are the steps involved in the redesign: 
 
-Critiquing the existing chart 
-Creating wireframes of the redesign chart 
-Conducting customer interviews to get feedback on the wireframes
-Condensing the insights from user research 
-Creating a solution 
+1. Critiquing the existing chart 
+2. Creating wireframes of the redesign chart 
+3. Conducting customer interviews to get feedback on the wireframes
+4. Condensing the insights from user research 
+5. Creating a solution 
 
 # Chart to redesign
 
@@ -32,4 +32,13 @@ Mention the units on the axes to make sure that the viewer understands that the 
 Usefulness: Have a few key takeaways from the graph for the user. A few things that can be included is how are the top-performing countries are doing as compared to the rest of the world 
 Make the chart more engaging by including more colors and talking about some interesting insights about the chart so that the reader is interested to learn more about the topic 
 
-![Happy Christmas](Untitled.jpg)
+
+# Step 2: Creating wireframes
+
+I want to deliver a useful message from the visualization. To do that I have narrowed the scope of this graph and focused on the top-performing countries in terms of internet accessibility.  I have filtered the top 10 countries with the highest internet accessibility and want to highlight when these countries achieved 60% of the population with internet access (the world’s current population with internet access) 
+
+
+# Step 3: Customer Interviews
+For this exercise, I interviewed 2  students from academia to understand how they perceive these wireframes and get their feedback on the chart. Given below are the questions I asked them. 
+
+![Research Questions](Untitled.jpg)
