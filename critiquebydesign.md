@@ -56,9 +56,9 @@ Here is the feedback recevied and insights from the interviews
 
 From the feedback received from the past interviews I made the following changes in the chart: 
 
-1) Added more description on the title
-2) Included the graph till only the time when the internet popluation is 60% so that the users are able to focus more on that these countries were able to achieve this number way before 
-3) Used a single color for all the countries to avoid any confusion 
-4) I also wanted to add a World Chart to show the comparsion 
+1. Added more description on the title
+2. Included the graph till only the time when the internet popluation is 60% so that the users are able to focus more on that these countries were able to achieve this number way before 
+3. Used a single color for all the countries to avoid any confusion 
+4. I also wanted to add a World Chart to show the comparsion 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11832100"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
