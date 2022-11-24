@@ -10,7 +10,7 @@ I can cook 5 different cuisines
 # What I am learning right now
 Building habits
 
-# Assignment
+# Assignments
 [Visualing government debt](https://yashasvm1.github.io/Portfolio/dataviz2)
 
 [Assignment 3 & 4: Critique by Design](https://yashasvm1.github.io/Portfolio/critiquebydesign)
