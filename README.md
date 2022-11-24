@@ -14,3 +14,6 @@ Building habits
 [Visualing government debt](https://yashasvm1.github.io/Portfolio/dataviz2)
 
 [Assignment 3 & 4: Critique by Design](https://yashasvm1.github.io/Portfolio/critiquebydesign)
+
+# Final Project
+[Here](https://yashasvm1.github.io/Portfolio/finalproject) is the link to final project part 1 
