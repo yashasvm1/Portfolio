@@ -1,21 +1,21 @@
-#Final Project Part II
+# Final Project Part II
 
 The goal of this step is to understand the audience of the story and ensure you are communicating at an appropriate level, 
 and telling the story using data visualization methods that are meaningful.  
 
-##Wireframes and Storboards
+## Wireframes and Storboards
 
 
 
-##User Research Protocol
+## User Research Protocol
 
-###Research Session Goals
+### Research Session Goals
 
 Our goal is to better understand:
 What are the key takeaways for the users after seeing the wireframes?
 Some of the observations on how to make the data visualizations more intuitive for the viewers 
 
-###Core Questions
+### Core Questions
 
 What stood out to you after seeing this story?
 What thing did you find confusing in the story?
@@ -23,11 +23,11 @@ How did the visualizations help them to understand the housing market?
 What are a few other things that you will like to see in the story?
  
 
-###Participants & Recruitment Process
+### Participants & Recruitment Process
  
 Participants will be recruited via social media on a voluntary basis. The criteria for target audience is people who have considered or have bought a house in the past.
  
-###General Plan and Interview Questions
+### General Plan and Interview Questions
  
 Introduction
 
@@ -42,7 +42,7 @@ Consent Script
 Hi, thank you for the time and help with the project.  Your name will be kept confidential. 
 We will conduct an interview that is roughly around 25-30 minutes in person. We will be emailing/messaging you the link prior to the scheduled interview time. During the interview, occasionally we will be asking probing questions like: why did you do that? Or how does that feel? You can always decline to answer any questions. We ask permission to record the video and audio of the interview. Is this okay?
 
-###Interview Questions
+### Interview Questions
  
 Story
 1.What do you think about the title of the story? Is it something you are interested in?
@@ -59,5 +59,5 @@ Visualizations
 3.Is there anything confusing in the chart?
 4.How do you feel about the aesthetics of the chart?
 
-##Reseaech Findings and Insights
+## Research Findings and Insights
 
