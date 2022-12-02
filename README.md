@@ -16,5 +16,7 @@ Building habits
 [Assignment 3 & 4: Critique by Design](https://yashasvm1.github.io/Portfolio/critiquebydesign)
 
 # Final Project
+
 [Here](https://yashasvm1.github.io/Portfolio/finalproject) is the link to final project part 1
+
 [Here](https://yashasvm1.github.io/Portfolio/finalproject) is the link to final project part 2
