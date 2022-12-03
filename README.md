@@ -19,4 +19,4 @@ Building habits
 
 [Here](https://yashasvm1.github.io/Portfolio/finalproject) is the link to final project part 1
 
-[Here](https://yashasvm1.github.io/Portfolio/finalproject) is the link to final project part 2
+[Here](https://yashasvm1.github.io/Portfolio/finalproject2) is the link to final project part 2
