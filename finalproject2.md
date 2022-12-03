@@ -10,7 +10,7 @@ and telling the story using data visualization methods that are meaningful. Ther
 
 ## Wireframes and Storboards
 
-![Insights](Frame 1.png)
+![Insights](Frame.png)
 
 ## User Research Protocol
 
