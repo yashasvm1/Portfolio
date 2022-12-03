@@ -1,7 +1,12 @@
 # Final Project Part II
 
 The goal of this step is to understand the audience of the story and ensure you are communicating at an appropriate level, 
-and telling the story using data visualization methods that are meaningful.  
+and telling the story using data visualization methods that are meaningful. There are four major partts of this document: 
+
+1) Wireframes and Storybords
+2) User Research Protocols 
+3) Insights 
+4) Summary
 
 ## Wireframes and Storboards
 
@@ -61,3 +66,4 @@ Visualizations
 
 ## Research Findings and Insights
 
+## Summary and Next Steps
