@@ -64,6 +64,11 @@ Visualizations
 3.Is there anything confusing in the chart?
 4.How do you feel about the aesthetics of the chart?
 
-## Research Findings and Insights
+## Persona and Research Findings 
+
+![Insights](Persona.jpg)
+![Insights](F21.jpg)
+![Insights](F22.jpg)
+![Insights](F23.jpg)
 
 ## Summary and Next Steps
