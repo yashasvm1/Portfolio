@@ -8,7 +8,9 @@ and telling the story using data visualization methods that are meaningful. Ther
 3) Insights 
 4) Summary
 
-## Wireframes and Storboards
+## Wireframes and Storyboards
+I also conducted a simple survey to understand how many people will be interested in buying a house in the next few years. 
+Here is the link to [survey]( https://forms.gle/rFtj1sHs2RL8sMaz9)
 
 ![Insights](Frame.png)
 
@@ -72,3 +74,8 @@ Visualizations
 ![Insights](F23.jpg)
 
 ## Summary and Next Steps
+
+The key insights from the part 2 are: 
+
+1) The particpants were satisfied with the topics covered in the story but wanted more information on the graphs included. To tackle this I am planning to write a crisp summary on the sources
+2) 
