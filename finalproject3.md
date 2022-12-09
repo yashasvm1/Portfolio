@@ -36,13 +36,17 @@ The target audience for the story is:
 1) The first thing I did to get an understanding of the market I did my primary research on how the house market doing currently, what are the factors that impact the house prices, read articles by experts 
 2) Talking with my relatives who have considered buying a house or bought a house to get an understanding on what are the different factors that are important while making this decision 
 
-Design Decisions: 
+# Design Decisions
+1) Using a light background so that the text on the page is visible to the readers. Initially I used a background colour which made it difficult the text to read and then moved to backgrounds to make it easier for the reader to read
+2) Highlighting the parts which are important for the user using a different color. For example, in my bar charts I used red colour to highlight the mortgage rates are very high in California as compared to the other month
 
+Challenges faced and how could I have done differently
 
-# Challenges faced and how could I have done differently
+1) It was very difficult for me to narrow down the scope of my project. I started with a topic which I am not really aware about. It took time in understanding the topic and then coming up with some insights. The way I could have done it better is by taking a topic I have some previous experience. For example, I started with the housing prices in US and narrowed it down to is it a good time to buy a house in california to give the story a direction and conclusion. 
 
-1) It was very difficult for me to narrow down the scope of my project. I started with a topic which I am not really aware about. It took time in understanding the topic and then coming up with some insights. The way I could have done it better is by taking a topic I have some previous experience. 
 2) The other big challenge was to create a flow in the story. It took me a long time to create a logical flow in the story. One thing I could have done better is to conduct more directed storytelling sessions before starting the wireframes
+
+
 
 # Things learned: 
 
