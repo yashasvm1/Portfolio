@@ -1,6 +1,4 @@
 # Yashasvi's Portfolio
-![Insights](Cover.png)
-
 Making sense of facts/numbers using interesting visualization techniques!
 
 # About me
@@ -15,7 +13,7 @@ Building habits
 # Assignments
 [Visualing government debt](https://yashasvm1.github.io/Portfolio/dataviz2)
 
-[Assignment 3 & 4: Critique by Design](https://yashasvm1.github.io/Portfolio/critiquebydesign)
+[Critique by Design](https://yashasvm1.github.io/Portfolio/critiquebydesign)
 
 # Final Project
 
