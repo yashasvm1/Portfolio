@@ -17,6 +17,10 @@ Building habits
 
 # Final Project
 
-[Here](https://yashasvm1.github.io/Portfolio/finalproject) is the link to final project part 1
+The topic of my final presentation is " Is it a good time to buy a house in California". These are the different steps involved in building project:
 
-[Here](https://yashasvm1.github.io/Portfolio/finalproject2) is the link to final project part 2
+1) [Here](https://yashasvm1.github.io/Portfolio/finalproject) is the link to final project part 1
+
+2) [Here](https://yashasvm1.github.io/Portfolio/finalproject2) is the link to final project part 2
+
+3) [Here](https://yashasvm1.github.io/Portfolio/finalproject3) is the link to final project part 3
