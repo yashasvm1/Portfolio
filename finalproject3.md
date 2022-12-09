@@ -1,6 +1,7 @@
 
 # Short Hand Link 
 [Final](https://carnegiemellon.shorthandstories.com/is-it-a-good-time-to-buy-a-house-in-california/index.html)
+
 [Presented in class](https://preview.shorthand.com/Ynf7CeP6TQpFquah) 
 
 # Summary 
