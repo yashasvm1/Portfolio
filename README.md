@@ -1,4 +1,5 @@
 # Yashasvi's Portfolio
+![Insights](Cover.png)
 Making sense of facts/numbers using interesting visualization techniques!
 
 # About me
