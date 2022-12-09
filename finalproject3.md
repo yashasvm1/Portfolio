@@ -51,4 +51,5 @@ The target audience for the story is:
 # Things learned: 
 
 1) People don’t just want to see numbers, they want a story. In order to engage an audience in a story it is necessary to build a flow and have a takeaway for the audience.
+
 2) Less is more: Keeping your charts and story less complicated makes it easier for the audience to understand. If your audience is taking more than 30 seconds to understand a chart than it is time to make it better. 
