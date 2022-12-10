@@ -29,6 +29,9 @@ The target audience for the story is:
 1) Anyone who is planning to buy a house in California
 2) Students who are planning to move to California and considering purchasing a house 
 
+![Insights](Personafinal.png)
+
+
 
 
 # What steps did I take to write the story?
