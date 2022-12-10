@@ -34,6 +34,7 @@ The target audience for the story is:
 # What steps did I take to write the story?
 
 1) The first thing I did to get an understanding of the market I did my primary research on how the house market doing currently, what are the factors that impact the house prices, read articles by experts 
+
 2) Talking with my relatives who have considered buying a house or bought a house to get an understanding on what are the different factors that are important while making this decision 
 
 # Design Decisions
